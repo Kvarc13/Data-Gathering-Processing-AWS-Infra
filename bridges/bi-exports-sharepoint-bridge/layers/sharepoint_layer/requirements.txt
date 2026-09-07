@@ -1,0 +1,3 @@
+# mirrors the existing layer - keep your current pins if they differ
+openpyxl
+Office365-REST-Python-Client

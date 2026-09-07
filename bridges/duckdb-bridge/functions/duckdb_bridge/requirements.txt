@@ -1,0 +1,1 @@
+# duckdb comes from the duckdb-layer; boto3 from the runtime. Keep empty.

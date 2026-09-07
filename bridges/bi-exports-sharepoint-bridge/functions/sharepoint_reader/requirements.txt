@@ -1,0 +1,3 @@
+# EMPTY on purpose: openpyxl + Office365-REST-Python-Client come from the
+# shared sharepoint-uploader-layer (see template.yaml). Do NOT list them
+# here - sam build would duplicate them into the package.
